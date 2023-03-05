@@ -4,7 +4,9 @@
 Comecei os estudos em 2022 e desde então tenho me dedicado a transição de carreira para Desenvolvedor de Software Junior. Focado em aprender os fundamentos da linguagem de programação JavaScript, aulas de Soft Skills, além de outros conceitos importantes da área de desenvolvimento de software com foco em Back-end.<br>**
 
 
-   ## Habilidades e conhecimentos:
+
+
+   ## Habilidades e conhecimentos: <img align="left" src="https://user-images.githubusercontent.com/112037735/222982843-7bd0631b-46f6-4e43-bff0-42560d57b758.png">
    
    **Soft Skills: Comunicação efetiva, resolução de problemas, trabalho em equipe.**
   </div>
@@ -17,11 +19,10 @@ Comecei os estudos em 2022 e desde então tenho me dedicado a transição de car
   </div>
 </div>
 
-
-
-## Entre em contato:
+## Entre em contato: <img align="left" src="https://user-images.githubusercontent.com/112037735/222982843-7bd0631b-46f6-4e43-bff0-42560d57b758.png">
 **Se você quiser saber mais sobre mim ou entrar em contato, sinta-se à vontade para me enviar uma mensagem.  
 Estou sempre interessado em conhecer novas pessoas e fazer conexões na área de tecnologia!**
+
 <div>
   
    <a href="https://discord.com/channels/Nilsooom#7507" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -29,8 +30,6 @@ Estou sempre interessado em conhecer novas pessoas e fazer conexões na área de
   <a href="https://www.linkedin.com/in/reunilson-dev-jr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://wa.me/5511953311843" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   
- 
- 
 </div>
 
 [![Anurag](https://github-readme-stats.vercel.app/api?username=nilsooom&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
