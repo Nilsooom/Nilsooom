@@ -1,4 +1,22 @@
-# Hello Friends ! Eu sou o **Nilson**
+# Hello Friends ! <img align="center" src="https://user-images.githubusercontent.com/112037735/222973691-c376d43b-497e-4d60-989f-32a947d2c894.png">   
+
+
+#### Meu nome é Reunilson, mas podem me chamar apenas de **Nilson** ! 
+
+
+
+
+
+<img align="right" src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="100px">
+
+
+</br>
+
+
+
+</br>
+
+
 
 <div>
   
@@ -6,7 +24,6 @@
 
 </div>
 
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nilson-git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -24,6 +41,6 @@
    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nilsooom.b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/reunilson-dev-jr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "Tel:(11) 9 5331-1843"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5511953311843" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   
 </div>
