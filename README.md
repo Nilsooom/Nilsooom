@@ -10,7 +10,7 @@ Comecei os estudos em 2022 e desde então tenho me dedicado a transição de car
 
    ## Habilidades e conhecimentos: <img align="left" src="https://em-content.zobj.net/thumbs/72/softbank/145/graduation-cap_1f393.png">
    
-   **Soft Skills: Comunicação efetiva, resolução de problemas, trabalho em equipe.**
+   **Soft Skills: Comunicação efetiva, resolução de problemas, trabalho em equipe, inteligência emocional**
   
   <div style="display: inline_block"><br>
     <img align="right" alt="Nilson-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
