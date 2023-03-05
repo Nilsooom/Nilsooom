@@ -45,4 +45,4 @@ Estou sempre interessado em conhecer novas pessoas e fazer conexões na área de
 
  
          
-  ## Sejam sempre bem-vindo ! <img align="center" src="https://user-images.githubusercontent.com/112037735/222973691-c376d43b-497e-4d60-989f-32a947d2c894.png">   
+  ## Sejam sempre bem-vindos ! <img align="center" src="https://user-images.githubusercontent.com/112037735/222973691-c376d43b-497e-4d60-989f-32a947d2c894.png">   
