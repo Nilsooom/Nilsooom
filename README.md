@@ -38,9 +38,7 @@ Estou sempre interessado em conhecer novas pessoas e fazer conexões na área de
 
 ##
 
-[![Anurag](https://github-readme-stats.vercel.app/api?username=nilsooom&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Anurag](https://github-readme-stats.vercel.app/api?username=nilsooom&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilsooom&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
