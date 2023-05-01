@@ -8,7 +8,7 @@ Comecei os estudos em 2022 e desde então tenho me dedicado a transição de car
 
 
 
-   ## Habilidades e conhecimentos: <img align="left" src="https://em-content.zobj.net/thumbs/72/softbank/145/graduation-cap_1f393.png">
+   ## Habilidades e conhecimentos:
    
    **Soft Skills: Comunicação efetiva, resolução de problemas, trabalho em equipe, inteligência emocional**
   
@@ -21,7 +21,7 @@ Comecei os estudos em 2022 e desde então tenho me dedicado a transição de car
   </div>
 </br>
 
-## Entre em contato: <img align="left" src="https://em-content.zobj.net/thumbs/72/softbank/145/postbox_1f4ee.png">
+## Entre em contato: 
 **Se você quiser saber mais sobre mim ou entrar em contato, sinta-se à vontade para me enviar uma mensagem.  
 Estou sempre interessado em conhecer novas pessoas e fazer conexões na área de tecnologia!**
 
